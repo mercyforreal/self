@@ -6,3 +6,7 @@ document.getElementById('work').innerHTML="Am a business woman and also a web de
 document.getElementById('add').innerHTML="You can contact me through this address";
 document.getElementById('house no').innerHTML="No Luc6, Eesa Tuntun Community";
 document.getElementById('my contact').innerHTML="Ido-Osun, Osun State,";
+document.getElementById('state').innerHTML="Nigeria.";
+document.getElementById('no').innerHTML="08164712190git";
+
+
