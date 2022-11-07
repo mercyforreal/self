@@ -1,0 +1,6 @@
+document.getElementById("self").innerHTML="MY SELF"
+document.getElementById("name").innerHTML="My Name is omilude Omolola Mercy, Im from Osogbo in Osun State."
+document.getElementById("self").innerHTML=""
+document.getElementById("self").innerHTML=""
+document.getElementById("self").innerHTML=""
+document.getElementById("self").innerHTML=""
